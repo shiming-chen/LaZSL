@@ -31,7 +31,7 @@ Results of our released models using various evaluation protocols on 6 datasets.
 | Place365 | 41.5 | 42.0 | 41.8 | 
 
 ## Citation
-If you find LaZSL is useful in your research or applications, please consider giving us a star 🌟 and citing it by the following BibTeX entry.
+If you find LaZSL is useful in your research or applications, please consider giving us a star 🌟.
 
 
 
