@@ -1,5 +1,5 @@
 # LaZSL
-This repository contains the code for the ICC'24 paper titled with  "***Intrepretable Zero-Shot Learning with Locally-Aligned Vision-Language Model***".
+This repository contains the code for the ICCV'25 paper titled with  "***Intrepretable Zero-Shot Learning with Locally-Aligned Vision-Language Model***".
 
 ## Requirements
 First install the dependencies.
