@@ -1,2 +1,2 @@
 # LaZSL
-Official implementations of our LaZSL (ICCV'25)
+Codes coming soon!
